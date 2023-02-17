@@ -8,7 +8,7 @@ int main(void)
 {
 	int n;
 
-	for (n = 13; n < 14; n++)
+	for (n = 04; n < 14; n++)
 	{
 		putchar(n);
 		if (n != 13)
