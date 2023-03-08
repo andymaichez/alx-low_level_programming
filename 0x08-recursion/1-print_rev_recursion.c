@@ -1,9 +1,8 @@
 /**
 * File: 1-print_rev_recursion.c
-* Auth: sam
+* Auth: andrew
 */
 #include "main.h"
-#include <unistd.h>
 /**
 * _print_rev_recursion - Prints a string in reverse. * @s: The string to be printed.
 */
