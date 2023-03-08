@@ -1,8 +1,10 @@
-#ifndef MAIN_H #define MAIN_H
+#ifndef MAIN_H
+#define MAIN_H
+#include <unistd.h>
 /**
 * File: main.h
-* Auth: me
-* Desc: Header file containing prototypes for all functions * used in the 0x07-recursion directory.
+* Auth: andrew
+* Desc: Header file containing prototypes for all functions
 */
 int _putchar(char c);
 void _puts_recursion(char *s);
