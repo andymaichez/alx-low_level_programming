@@ -6,7 +6,8 @@
  *
  * Return: Always 0.
  */
-int main(void)
+int main(void);
+int is_prime_number(int n);
 {
     int r;
 
